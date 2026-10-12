@@ -1,6 +1,4 @@
-# VNBrokers SDK for Node.JS
-
-> :warning: **Warning:** This is only a prototype. If you are not an expert or developer, please skip this project; developers should use it for reference only.
+# Hoalu SDK for Node.JS
 
 ## Disclaimer
 
