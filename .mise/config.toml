@@ -1,7 +1,7 @@
 [tools]
 lefthook = "2.1.16"
 node = "22.23.2"
-oxfmt = "0.71.0"
+oxfmt = "0.74.0"
 zizmor = "1.29.0"
 
 [tasks.build]
