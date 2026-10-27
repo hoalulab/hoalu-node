@@ -51,8 +51,8 @@
   "devDependencies": {
     "@types/node": "^20.19.43",
     "@types/ws": "^8.18.1",
-    "@typescript-eslint/eslint-plugin": "^8.71.1",
-    "@typescript-eslint/parser": "^8.71.1",
+    "@typescript-eslint/eslint-plugin": "^8.72.1",
+    "@typescript-eslint/parser": "^8.72.1",
     "@vitest/coverage-v8": "^4.1.10",
     "eslint": "^8.57.1",
     "tsup": "^8.5.1",
